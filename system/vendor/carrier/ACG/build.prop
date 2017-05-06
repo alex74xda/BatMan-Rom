@@ -1,0 +1,14 @@
+ro.ril.ecclist=911,#911,*911
+ro.com.android.dataroaming=true
+ro.cdma.otaspnumschema=SELC,1,00,99
+ro.telephony.default_network=8
+ro.cdma.home.operator.numeric=310000
+ro.cdma.home.operator.alpha=Default
+persist.radio.snapshot_enabled=1
+persist.radio.snapshot_timer=22
+persist.eons.enabled=false
+persist.radio.sib16_support=1
+
+# RTRE from PST not supported for Single SKU.
+# Value 1 will make the behaviour of TelephonyManager.getLteOnCdmaMode() same as SIM-based (non-NV) Hero ACG.
+telephony.lteOnCdmaDevice=1

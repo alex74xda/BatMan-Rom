@@ -1,0 +1,7 @@
+userdata/app/SBrowser_5.2_Removable/*.apk filter=lfs diff=lfs merge=lfs -text
+userdata/app/SHealth5/*.apk filter=lfs diff=lfs merge=lfs -text
+userdata/app/Notes15_Removable/*.apk filter=lfs diff=lfs merge=lfs -text
+system/app/Chrome/*.apk filter=lfs diff=lfs merge=lfs -text
+system/priv-app/SystemUI/*.apk filter=lfs diff=lfs merge=lfs -text
+system/priv-app/StickerFaceAR/*.apk filter=lfs diff=lfs merge=lfs -text
+system/framework/*.apk filter=lfs diff=lfs merge=lfs -text

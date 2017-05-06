@@ -1,0 +1,11 @@
+ro.ril.ecclist=911,#911,*911
+ro.gsm.data_retry_config=max_retries=infinite,5000,5000,60000,120000,480000,900000
+ro.telephony.default_network=8
+ro.cdma.home.operator.numeric=310000
+ro.cdma.home.operator.alpha=TracFone
+persist.radio.snapshot_enabled=1
+persist.radio.snapshot_timer=22
+persist.eons.enabled=false
+telephony.lteOnCdmaDevice=1
+ril.subscription.types=NV,RUIM
+persist.radio.sib16_support=1
